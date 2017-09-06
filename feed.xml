@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-06T15:55:23+00:00</updated><id>/</id><title type="html">Rajan.World</title><subtitle>Rajan's views, thoughts, opinions about World.  I mostly writes about software development &amp; technology, sometimes about world and rarely about my-self.  
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-06T16:00:58+00:00</updated><id>/</id><title type="html">Rajan.World</title><subtitle>Rajan's views, thoughts, opinions about World.  I mostly writes about software development &amp; technology, sometimes about world and rarely about my-self.  
 </subtitle><entry><title type="html">How to create your first Jekyll based website</title><link href="/blogs/how-to-create-your-first-jekyll-based-website" rel="alternate" type="text/html" title="How to create your first Jekyll based website" /><published>2017-04-03T10:36:38+00:00</published><updated>2017-04-03T10:36:38+00:00</updated><id>/blogs/how-to-create-your-first-jekyll-based-website</id><content type="html" xml:base="/blogs/how-to-create-your-first-jekyll-based-website">&lt;p&gt;Steps of creating jekyll based website for biginner.&lt;/p&gt;
 
-&lt;p&gt;##Setup&lt;/p&gt;
+&lt;p&gt;##Setup for automatic deploy&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;github.io page&lt;/li&gt;
   &lt;li&gt;custom domain&lt;/li&gt;
